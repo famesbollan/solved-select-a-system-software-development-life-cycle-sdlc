@@ -1,0 +1,7 @@
+Download Link: https://assignmentchef.com/product/solved-select-a-system-software-development-life-cycle-sdlc
+<br>
+Select a System/Software Development Life Cycle (SDLC) model and methodology then apply this model and methodology to the development of a new cyber intrusion detection tool.  The specifics of the tool (i.e. software or network hardware) are up to you.  The main goal for the system is to detect adversaries in a company network.  Be sure to define the SDLC model and methodology and identify the specific actions associated with each SDLC step in the development of the system.
+
+The paper must following the formatting guidelines in The Publication Manual of the American Psychological Association (2010), (6th ed., 7th printing), and contain a title page, five scholarly references, three to five pages of content, and a reference page. In addition, the paper will be submitted through the SafeAssign originality-checking tool.  More APA assistance can be found at the <a href="https://owl.english.purdue.edu/owl/resource/560/01/" rel="nofollow">Purdue University Online Writing Lab</a>.
+
+The rubric for this assignment can be viewed when clicking on the above assignment link, which you will use to submit your assignment.
